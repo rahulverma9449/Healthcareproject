@@ -1,0 +1,1 @@
+/workspaces/Healthcareproject/Backend/HealthCare/static
